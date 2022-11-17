@@ -1,0 +1,10 @@
+React : A Javascript Library
+-> It is based on virtual DOM which is less expensive than the real DOM
+-> It is used to create reusable UI components
+-> It is used to create single page applications
+-> React is based on Declarative approach and Javascript is based on Imperative approach 
+
+Difference between NPM and NPX
+-> NPM is a package manager and NPX is a package runner
+-> NPM : Node package manager
+-> NPX : Node package runner
