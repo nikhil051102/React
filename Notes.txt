@@ -8,3 +8,18 @@ Difference between NPM and NPX
 -> NPM is a package manager and NPX is a package runner
 -> NPM : Node package manager
 -> NPX : Node package runner
+
+
+Components in React
+-> Components are the building blocks of React
+-> Components are the independent and reusable pieces of code that render HTML
+-> Components returns JSX file as a code.
+
+JSX : Javascript XML
+
+Elements vs Components
+-> Components are made up of elements
+-> Elements are the smallest building blocks of React
+-> Elements are the objects and components are the functions
+
+Javascript follows camelcase notations. Eg : className, onClick, etc
