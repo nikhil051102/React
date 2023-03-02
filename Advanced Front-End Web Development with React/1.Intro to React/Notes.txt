@@ -1,0 +1,9 @@
+-> React is a Javascript Library
+
+
+-> The Terminal
+1) ~ represents home directory.
+2) pwd - path to your current directory.
+3) ls - list of all the files in current directory.
+4) press tab - to autocomplete
+5) cd .. - to move back 1 folder
