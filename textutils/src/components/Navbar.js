@@ -25,7 +25,7 @@ export default function Navbar(props) {
         </form>
       </div>
       <div className={`form-check form-switch text-${props.mode==='light'?'dark':'light'}`}>
-        <input className="form-check-input" onClick={props.toggleMode} type="checkbox" role="switch" id="flexSwitchCheckDefault"/>
+        <input className="form-check-input" onClick={props.toggleMode} type="checkbox" role="switch" id="flexSwitchCheckDefault"/> // eslint-disable-next-line
         <label className="form-check-label" for="flexSwitchCheckDefault">Mode</label>
     </div>
     </nav>
